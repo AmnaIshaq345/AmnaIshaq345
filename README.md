@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmnaIshaq345
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning front end languages
+- 🌱 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on gitHub
 
 
